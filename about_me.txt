@@ -1,0 +1,5 @@
+Introduce yourself in this file!
+
+Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+My name is Toby Buckfire and I am a freshman majoring in Data Science in LSA. A fun fact about me is that I took a 1 week backpacking trip in Canada (am from Michigan) through a high school class.
